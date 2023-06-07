@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lamya-ishrat
-- 👀 I’m interested in Python, PHP, JavaScript, MySql; which I'm more comfortable with.+
+- 👀 I’m interested in Python, PHP, JavaScript, MySql; which I'm more comfortable with.
 - 🌱 I’m currently learning REACT.js, Node.js, flutter.
+- Thank You..
 
 
 <!---
